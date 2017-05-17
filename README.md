@@ -1,4 +1,4 @@
-# kaggle-twosigma
+# Kaggle - Two Sigma
 My solution to Two Sigma competition from Kaggle.
 
 The aim of the competition was to predict probability that interest in rental listing will reach certain level. More detailed description of the competition can be found in notebook two-sigma-notebook.ipynb.
